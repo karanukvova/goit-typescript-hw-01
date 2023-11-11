@@ -1,0 +1,14 @@
+{
+  "name": "courses_ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.1"
+  }
+}
